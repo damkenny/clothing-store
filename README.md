@@ -1,3 +1,3 @@
-# Muslima-wears
+# Muslim-wears
 
-https://romantic-stonebraker-aac6f7.netlify.app/
+https://damkenny-abaya-store.netlify.app/
