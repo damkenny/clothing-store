@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'nodenode'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c4744babe1804ea8861bb9ddf281adcb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7e3034b95a2e4264bda74256bfbc2373 }}
         package: .
